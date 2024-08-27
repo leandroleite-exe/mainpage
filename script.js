@@ -9,3 +9,5 @@ logo.addEventListener('mouseout', () => {
     logo.style.transform = 'scale(1)';
     logo.style.filter = 'brightness(1)';
 });
+
+document.getElementById("logo").style.borderRadius = "5px";
